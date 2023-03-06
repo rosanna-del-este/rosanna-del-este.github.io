@@ -65,3 +65,8 @@ This remarkably preserved shell bears elaborate incised decoration on the outer 
 #### Cultural Origin: A metadata field that identifies the cultural or ethnic group that created the shell product, as different groups may have had unique artistic styles and design motifs. Here I may specify the culture origin as Edomite. 
 #### Date and Location: A metadata field that provides information on where and when the shell product was found, which can help researchers understand its historical and cultural context.Here I need to specify the date to iron age. 
 #### By adding these metadata categories, researchers and historians interested in feminist iconography in Iron Age shell products would be better able to discover and analyze relevant materials.
+
+
+**Reference**
+
+[^1]: “Tridacna squamosa.” Wikipedia, Wikimedia Foundation, 17 Feb. 2023, https://en.wikipedia.org/wiki/Tridacna_squamosa. 
