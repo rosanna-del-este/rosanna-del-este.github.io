@@ -39,5 +39,6 @@ This exercise has two main elements: (1) illustrating how federated libraries ca
 |Fragment of a shell with a sculpted female head|Shell-Vessels|700 - 600 BC|Levant/Mesopotamia|Iron Age II|Shell (Tridacna squamosa)|
 
 #### They are similar in that they are all made of the same material--Tridacna squamosa(which is the termanology name of fluted giant clam). That's also why I would be able to find and compare them in the metadata website. Yet it is surprising to me that despite made of the same material, theit texture look quite different. 
+#### I was wondering what 's the meaning of shell-vessel and shell-ornament. As I looked up, I understood that vessel shells are used as containers mainly for cosmetics. On the contrary, shells with more sophisticated shapes like trumpet shells are used as ornaments, for decoration purpose. 
 
 ## How is this template different?
