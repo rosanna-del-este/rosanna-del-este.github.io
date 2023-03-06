@@ -67,7 +67,7 @@ This remarkably preserved shell bears elaborate incised decoration on the outer 
 #### By adding these metadata categories, researchers and historians interested in feminist iconography in Iron Age shell products would be better able to discover and analyze relevant materials.
 
 
-**Reference**
+Reference
 1: “Tridacna squamosa.” Wikipedia, Wikimedia Foundation, 17 Feb. 2023, https://en.wikipedia.org/wiki/Tridacna_squamosa. 
 
 
