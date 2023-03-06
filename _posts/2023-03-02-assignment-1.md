@@ -57,7 +57,7 @@ This remarkably preserved shell bears elaborate incised decoration on the outer 
 #### I googled "Iron age archaeology digital library", 
 #### and found the metadata website "Atla Digital Library"https://dl.atla.com/concern/works/xd07gv54m?locale=en.
 
-![Atla](https://github.com/rosanna-del-este/rosanna-del-este.github.io/blob/bdcd7204c381fcaffcb358cc8394e18893cd36b5/images/atla.jpg "Atla digital library")
+![Atla](/images/atla.jpg "Atla digital library")
 #### The Atla Digital Library is an online platform that brings together various digitized collections from around the world. These collections come from libraries, religious institutions, and other organizations that gather and preserve materials such as texts, records, photographs, maps, recordings, and more. With its search feature, the Atla Digital Library allows users to easily access and explore these materials, which are of great significance to anyone interested in studying, teaching, or researching historical and archival content in the fields of religion and theology.The layout of this digital library is very similar to that of Digital Libraries of the Middle East. It also allows search by categories, the slight difference is that the items collected in Atla is largely from academic institutes, colleges rather than museums and galleries. 
 
 #### To make shell items more discoverable, several metadata categories could be added. These categories might include:
