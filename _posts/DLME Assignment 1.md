@@ -10,9 +10,9 @@ category: blog
 # Digital Library of the Middle East (DLME) and Its Metadata
 
 ## Guidelines for the Assignment: 
-The DLME Metadata Assignment is an assignment in one step. It builds upon the work we did in class on February 7th. 
-This assignment can be done alone or in pairs (either the ones from class or new ones).  
-This exercise has two main elements: (1) illustrating how federated libraries can help us understand different kinds of relationships between objects found in global collections and (2) exploring the [discoverability](https://en.wikipedia.org/wiki/Discoverability) of the items given their metadata.
+#### The DLME Metadata Assignment is an assignment in one step. It builds upon the work we did in class on February 7th. 
+#### This assignment can be done alone or in pairs (either the ones from class or new ones).  
+#### This exercise has two main elements: (1) illustrating how federated libraries can help us understand different kinds of relationships between objects found in global collections and (2) exploring the [discoverability](https://en.wikipedia.org/wiki/Discoverability) of the items given their metadata.
 
 ## Identify two or three items from the [Digital Library of the Middle East]
 Since I'm interested in sea shells(mainly bc of their beautiful rainbow shade reflected under sunshine), I set out searching "shell". Then I found an item called "Tridacna shell". 
