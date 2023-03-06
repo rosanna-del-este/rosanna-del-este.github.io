@@ -7,7 +7,7 @@ tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
 ---
-#Digital Library of the Middle East (DLME) and Its Metadata
+# Digital Library of the Middle East (DLME) and Its Metadata
 
 ## Guidelines for the Assignment: 
 The DLME Metadata Assignment is an assignment in one step. It builds upon the work we did in class on February 7th. 
