@@ -44,3 +44,7 @@ This exercise has two main elements: (1) illustrating how federated libraries ca
 #### Besides there comparisons, these three items are similar in that they're all most likely made in Iron age, originated from the region of Levant. I was in owe with the delicacy of the craftsmanship of these shells. The patterns carved on them are very detailed, and you can tell that the craftsman is very experienced. And it was made before 600 BC. I wonder what they used to carve these patterns, especially the technique to make the sculpted woman face. What equipment were they using at the iron age? Pure knife? Dp they have tools like scrubs to smooth the surface?
 
 ## How complete or certain is the metadata?
+#### Considering that there might be data loss when extracting data from the original database to this metadata set, I went to the contributor's website-- "Metropolitan Museum of Art", and compared the three items. I found a category from the contributor's website that s missing in the metadata : "Culture". On the page for "Tricadacna shell" , it specified its culture as "Edomite". However, this items is documented in way less detail compared to the other two. The other two each has a paragragh describing their cuture, geographic origination, the meaning of the appearance/aesthetics. 
+
+#### Here's the description of "Fragment of a shell with a sculpted female head":
+$\text{hello}$ 
