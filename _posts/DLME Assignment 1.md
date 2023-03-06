@@ -17,6 +17,7 @@ This exercise has two main elements: (1) illustrating how federated libraries ca
 ## Identify two or three items from the [Digital Library of the Middle East]
 Since I'm interested in sea shells(mainly bc of their beautiful rainbow shade reflected under sunshine), I set out searching "shell". Then I found an item called "Tridacna shell". 
 
+
 ![Tridacna shell](/images/Tridacna shell.jpg "Tridacna shell")
 <div align="center"> Tridacna shell 3.33 x 4.29 in. (8.46 x 10.9 cm).” DLME, https://dlmenetwork.org/library/catalog/met_326244. </div>
 
