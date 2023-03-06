@@ -18,7 +18,7 @@ This exercise has two main elements: (1) illustrating how federated libraries ca
 Since I'm interested in sea shells(mainly bc of their beautiful rainbow shade reflected under sunshine), I set out searching "shell". Then I found an item called "Tridacna shell". 
 
 
-![Tridacna shell](https://github.com/rosanna-del-este/rosanna-del-este.github.io/blob/8bc5cfff13fa3a89cf8a0364496eefc228e1c38f/images/Tridacna%20shell.jpg "Tridacna shell")
+<div align="center">![Tridacna shell](https://github.com/rosanna-del-este/rosanna-del-este.github.io/blob/8bc5cfff13fa3a89cf8a0364496eefc228e1c38f/images/Tridacna%20shell.jpg "Tridacna shell")</div>
 <div align="center"> Tridacna shell 3.33 x 4.29 in. (8.46 x 10.9 cm).” DLME, https://dlmenetwork.org/library/catalog/met_326244. </div>
 
 
