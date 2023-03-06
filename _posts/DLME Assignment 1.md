@@ -43,4 +43,4 @@ This exercise has two main elements: (1) illustrating how federated libraries ca
 #### This further research also solved my questions about why the two later found shell objects have names related to feminism, expecially the sculpted fragment. There way of creafting is closely related to their purpose of creation. Since they're are mainly served as cosmetic containers and decorations, it is not surprising that there would be faces of women and other feministic patterns carved on the shells. 
 #### Besides there comparisons, these three items are similar in that they're all most likely made in Iron age, originated from the region of Levant. I was in owe with the delicacy of the craftsmanship of these shells. The patterns carved on them are very detailed, and you can tell that the craftsman is very experienced. And it was made before 600 BC. I wonder what they used to carve these patterns, especially the technique to make the sculpted woman face. What equipment were they using at the iron age? Pure knife? Dp they have tools like scrubs to smooth the surface?
 
-## How is this template different?
+## How complete or certain is the metadata?
