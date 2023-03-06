@@ -33,7 +33,7 @@ Then I went on searching "Tridacna" in the metadata website, and found two other
 Here are their information: 
 
 |Title|Type|Date|Geographic region|Time period|Medium|
-|----------|--------------|--------|--------------------|------------|------------|
+|-------|--------------|--------|--------------------|------------|------------|
 |Tridacna shell|Shell-Ornaments|800 - 600 BC|Levant/Tawilan|Iron Age|Shell (Tridacna squamosa)|
 |Shell engraved with winged female deity, sphinxes, and lotus plants|Shell-Ornaments|700 - 600 BC|Levant|Iron Age II|Shell (Tridacna squamosa)|
 |Fragment of a shell with a sculpted female head|Shell-Vessels|700 - 600 BC|Levant/Mesopotamia|Iron Age II|Shell (Tridacna squamosa)|
