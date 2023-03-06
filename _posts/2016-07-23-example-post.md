@@ -1,17 +1,19 @@
 ---
 layout: post
-title: What is This?
-excerpt: "What is a static website generator, and why should I care?"
-modified: 2/29/2016, 9:00:24
+title: Assignment 1 - DLME Metadata
+excerpt: Digital Library of the Middle East (DLME) and Its Metadata
+modified: 3/5/2023, 23:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
 ---
+# Guidelines for the Assignment: 
+The DLME Metadata Assignment is an assignment in one step. It builds upon the work we did in class on February 7th. 
+This assignment can be done alone or in pairs (either the ones from class or new ones).  
+This exercise has two main elements: (1) illustrating how federated libraries can help us understand different kinds of relationships between objects found in global collections and (2) exploring the [discoverability](https://en.wikipedia.org/wiki/Discoverability) of the items given their metadata.
 
-This is a website template created with Jekyll that is designed to be hosted on Github pages. Jekyll is a static website generator, and Github pages provides a free and easy way to host websites created using Jekyll.
+## identify two or three items from the [Digital Library of the Middle East]
 
-## What is a static website generator?
-A static website generator is a program that allows for a website to be created using alternatives to HTML. In this case we are using a simple text markup language called Markdown to create and format the content on the pages. Jekyll can interpret this and convert it to html that can be rendered in any browser.
 
 ## Why should I use a static website?
 A static website, simply put, is easier to manage than just about any other option out there for a simple website. Since it does not rely on any additional web application, it can be hosted on any webhosting server. It does not require regular updates like many dynamic websites such as WordPress or Drupal require. Everything that the website needs to work is contained within one directory, making it incredibly easy to move.
