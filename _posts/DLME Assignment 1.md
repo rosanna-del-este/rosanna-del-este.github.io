@@ -68,5 +68,6 @@ This remarkably preserved shell bears elaborate incised decoration on the outer 
 
 
 **Reference**
-
 [^1]: “Tridacna squamosa.” Wikipedia, Wikimedia Foundation, 17 Feb. 2023, https://en.wikipedia.org/wiki/Tridacna_squamosa. 
+
+
