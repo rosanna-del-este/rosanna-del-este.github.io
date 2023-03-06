@@ -25,10 +25,18 @@ Then I went on searching "Tridacna" in the metadata website, and found two other
 ![Shell with winged female deity](https://github.com/rosanna-del-este/rosanna-del-este.github.io/blob/758b6f3344be5ea68f95652e977e53b44dba0da3/images/Shell%20with%20winged%20female%20deity.jpg "Shell with winged female deity")
 <div align="center"> Shell engraved with winged female deity, sphinxes, and lotus plants 2 3/4 x 1 1/2 in. (7 x 3.8 cm)” DLME, https://dlmenetwork.org/library/catalog/met_327548. </div>
 
+
 ![shell with a sculpted female head](https://github.com/rosanna-del-este/rosanna-del-este.github.io/blob/758b6f3344be5ea68f95652e977e53b44dba0da3/images/shell%20with%20a%20sculpted%20female%20head.jpg "shell with a sculpted female head")
 <div align="center"> Fragment of a shell with a sculpted female head 2 x 3 1/8 in. (5.1 x 7.9 cm).” DLME, https://dlmenetwork.org/library/catalog/met_324429. </div>
 
-## Why should I use a static website?
+## Comparison of metadata
+Here are their information: 
+
+|Title|Type|Date|Geographic region|Time period|Medium|
+|----------|--------------|--------|--------------------|------------|------------|
+|Tridacna shell|Shell-Ornaments|800 - 600 BC|Levant/Tawilan|Iron Age|Shell (Tridacna squamosa)|
+|Shell engraved with winged female deity, sphinxes, and lotus plants|Shell-Ornaments|700 - 600 BC|Levant|Iron Age II|Shell (Tridacna squamosa)|
+|Balıklı Natürmort|Duran, Feyhaman, 1886-1970|1960|Duralit üzerine yağlıboya|61 x 49.5 cm|
 
 
 ## How is this template different?
