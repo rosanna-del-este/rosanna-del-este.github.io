@@ -36,7 +36,7 @@ Here are their information:
 |----------|--------------|--------|--------------------|------------|------------|
 |Tridacna shell|Shell-Ornaments|800 - 600 BC|Levant/Tawilan|Iron Age|Shell (Tridacna squamosa)|
 |Shell engraved with winged female deity, sphinxes, and lotus plants|Shell-Ornaments|700 - 600 BC|Levant|Iron Age II|Shell (Tridacna squamosa)|
-|Balıklı Natürmort|Duran, Feyhaman, 1886-1970|1960|Duralit üzerine yağlıboya|61 x 49.5 cm|
+|Fragment of a shell with a sculpted female head|Shell-Vessels|700 - 600 BC|Levant/Mesopotamia|Iron Age II|Shell (Tridacna squamosa)|
 
 
 ## How is this template different?
