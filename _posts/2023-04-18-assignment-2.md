@@ -29,3 +29,10 @@ I used Voyant tools to analyze and compare the 5 subcorpus. Here's a screenshot 
 ## The wordcloud
 I first looked at the word cloud. The word that shows as the most frequent is "holmes" and "mr", following which is a bunch of verbs like "said", "think", "know" and stuff like that. 
 ![wordcloud](/images/wordcloud.png "wordcloud")
+
+## Frequencies comparison
+I then looked at the differences of frequency of the most frquent words in each issue. It turns out that each word has different frequencies in different version. This might be casued from multiple reasons.
+1. the times that a word is used is indeed different from differnt issues.
+2. the length of each version is different(considering acknowledge page, copyright and something like that), thus the denominator changes rather than the numerator.
+![Relative frequencies](/images/relative frequencies.png "Relative frequencies")
+
