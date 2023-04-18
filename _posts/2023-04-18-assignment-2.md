@@ -23,5 +23,9 @@ Sherlock Holmes first appeared in "A Study of Scarlet" in 1887, which was succes
 You can also break the corpus down into subcorpuses that focuses mainly on SHerlock Holmes. I found text files of The Adventure of Sherlock Holmes issued in 1892, 1893, 1908, 1910 and 1911. I wanted to find out if there are seeming differences in the frequency of texts and phrases. Suppose there aren't much changes done, then the frequency of each word should be very similar between different versions of issues. 
 
 I used Voyant tools to analyze and compare the 5 subcorpus. Here's a screenshot of the overview of the analysis. 
-![General](/images/general.png "Genera;")
-<div align="center"> General 3.33 x 4.29 in. (8.46 x 10.9 cm).” DLME, [https://dlmenetwork.org/library/catalog/met_326244](https://github.com/rosanna-del-este/rosanna-del-este.github.io/blob/4729d5361140a7b3bd4f9e3ef0ec538a16009389/images/general.png). </div>
+![General](/images/general.png "General")
+
+
+## The wordcloud
+I first looked at the word cloud. The word that shows as the most frequent is "holmes" and "mr", following which is a bunch of verbs like "said", "think", "know" and stuff like that. 
+![wordcloud](/images/wordcloud.png "wordcloud")
