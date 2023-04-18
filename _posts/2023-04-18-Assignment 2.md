@@ -15,6 +15,10 @@ The Corpus Assignment, otherwise known as Assignment 2, will be completed in one
 ## Pick a corpus. 
 I decided to pick the corpus of [writings of Sir Arthur Conan Doyle]. I'm especially interested in his work "the Adventure of Sherlock Holmes". I saw that there are different version of the release of this book, so I was wondering if I could do a textual analysis of the different issues and compare them. 
 
+I found text files of The Adventure of Sherlock Holmes issued in 1892, 1893, 1908, 1910 and 1911. I wanted to find out if there are seeming differences in the frequency of texts and phrases. Suppose there aren't much changes done, then the frequency of each word should be very similar between different versions of issues. 
+
+I used Voyant tools to analyze and compare the 5 subcorpus. Here's a screenshot of the overview of the analysis. 
+
 ![General](/images/general.png "Genera;")
 <div align="center"> General 3.33 x 4.29 in. (8.46 x 10.9 cm).” DLME, [https://dlmenetwork.org/library/catalog/met_326244](https://github.com/rosanna-del-este/rosanna-del-este.github.io/blob/4729d5361140a7b3bd4f9e3ef0ec538a16009389/images/general.png). </div>
 
