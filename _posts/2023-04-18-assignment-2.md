@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: post
 title: Assignment 2-Working with a Corpus
 
 # theme: simple
