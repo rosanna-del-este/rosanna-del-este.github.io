@@ -34,5 +34,5 @@ I first looked at the word cloud. The word that shows as the most frequent is "h
 I then looked at the differences of frequency of the most frquent words in each issue. It turns out that each word has different frequencies in different version. This might be casued from multiple reasons.
 1. the times that a word is used is indeed different from differnt issues.
 2. the length of each version is different(considering acknowledge page, copyright and something like that), thus the denominator changes rather than the numerator.
-![Relative frequencies](/images/relative frequencies.png "Relative frequencies")
+![frequencies](/images/frequencies.png "frequencies")
 
