@@ -42,7 +42,7 @@ I then looked at the differences of frequency of the most frquent words in each 
 ![frequencies](/images/frequencies.png "frequencies")
 
 ## Linking back to the readings
-In Taylor Arnold's "Distant viewing: analyzing large visual corpora," distant viewing is defined as a framework for studying large collections of visual material that emphasizes the interpretive nature of extracting semantic metadata from images. By making a word cloud for The Adventures of Sherlock Holmes, we can apply distant viewing to gain a rough understanding of the book's contents at a glance.
+In Taylor Arnold's "Distant Viewing: Analyzing Large Visual Corpora," distant viewing is defined as a framework for studying large collections of visual material that emphasizes the interpretive nature of extracting semantic metadata from images. By making a word cloud for The Adventures of Sherlock Holmes, we can apply distant viewing to gain a rough understanding of the book's contents at a glance.
 
 For example, the word cloud may reveal that the most frequently used words in the book are "Mr. Sherlock Holmes" and "Watson," indicating that these are the main characters in the story. The size of these words in the word cloud would be larger than other less frequently used words, making them stand out and providing a visual representation of the importance of these characters.
 
