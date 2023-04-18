@@ -7,4 +7,4 @@ transition: convex
 tags: [presentation]
 category: blog
 ---
-# Digital Library of the Middle East (DLME) and Its Metadata
+# Working with a corpus
