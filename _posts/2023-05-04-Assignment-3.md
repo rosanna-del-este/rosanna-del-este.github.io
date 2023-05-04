@@ -23,4 +23,5 @@ I imported the 30 images to Orange, and built a dataset according to the instruc
 
 Here is the categorization by hierarchy and by mindmap: 
 ![outcome2](/images/outcome2.png "outcome2")
+
 As is shown in the image, the image analysis tool does recognize paintings by the same artists in general. For example, the two works by Qiu were categorized under the same sub-branch. The same categorization also happened to 2 of Li's work, 5 of Ni's work, 2 of Tang's work, another 4 of Tang's work, and 2 of Guo's work. 
