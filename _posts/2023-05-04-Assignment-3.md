@@ -16,3 +16,4 @@ Wikiart is a "visual art encyclopedia", which provides searchable image database
 
 ## Step 2: Construct an image dataset of at least 30 images
 I wanted to explore the collections of classic Chinese paintings in this database. As a result, I searched for "Shan Shui山水", which means "ink painting of the landscape of mountains and rivers", which is a style in classic Chinese painting. I collected several paintings of 5 artists. 
+![outcome5](/images/outcome5.png "outcome")
