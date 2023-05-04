@@ -7,7 +7,7 @@ transition: convex
 tags: [post]
 category: blog
 ---
-# Working with a corpus
+# Working with a corpus of images
 
 ## Step 1: Familiarize myself with an image corpus
 I selected Wikiart image collection website. 
@@ -15,5 +15,5 @@ I selected Wikiart image collection website.
 Wikiart is a "visual art encyclopedia", which provides searchable image database of images, paintings, photographies and other artworks. It also provides artist biographies of each artwork. In the database website, it includes sections like "Artwork by style", "Popular artworks", "Artist by art movement" and "Artwork by genre". Under each general category, there's also more detailed classifications of genre. 
 
 ## Step 2: Construct an image dataset of at least 30 images
-I wanted to explore the collections of classic Chinese paintings in this database. As a result, I searched for "Shan Shui山水", which means "ink painting of the landscape of mountains and rivers", which is a style in classic Chinese painting. I collected several paintings of 5 artists. They have 30 images in total. Despite different styles(some more dim, others more colorful), they are different also in ways that some are pure landscape, while others have human figure within the frame. 
+I wanted to explore the collections of classic Chinese paintings in this database. As a result, I searched for "Shan Shui山水", which means "ink painting of the landscape of mountains and rivers", which is a style in classic Chinese painting. I collected several paintings of 5 artists. They have 30 images in total. Despite different styles(some more dim, others more colorful), they are different also in ways that some are pure landscape, while others have human figure within the frame. I'm curious to see how Orange is going to classify and organize the paintings. My assumption is that the outcome of the image categorization will be a mixture of "classification by artist" and "classification by different elements in the painting". 
 ![outcome5](/images/outcome5.png "outcome")
