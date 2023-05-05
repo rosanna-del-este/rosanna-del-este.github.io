@@ -28,3 +28,6 @@ As is shown in the image, the image analysis tool does recognize paintings by th
 
 ## stpe 3: Construct a 100-image dataset
 I decided to collect images of different species, as well as different style sof birds. I named each images according to the specie of the bird. I also collected images that wre about bird but doesn't have a specific biological category. I named them as geometric shapes. 
+![outcome7](/images/outcome7.png "outcome7")
+
+
