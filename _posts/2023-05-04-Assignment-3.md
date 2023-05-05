@@ -28,6 +28,8 @@ As is shown in the image, the image analysis tool does recognize paintings by th
 
 ## stpe 3: Construct a 100-image dataset
 I decided to collect images of different species, as well as different style sof birds. I named each images according to the specie of the bird. I also collected images that wre about bird but doesn't have a specific biological category. I named them as geometric shapes. 
+
+Comparing the sequence of images in the image viewer vs the original ones in my file, I didn notice changes of image sequences, and its siaplacement is referred to how similar/different each image's color and style is compared to its neighboring images. 
 ![outcome7](/images/outcome7.png "outcome7")
 
 Creating an image dataset of artworks related to birds is a good example of how cultural, political, social, and economic contexts can influence the framing of a dataset. The artworks I choose to include and the way Orange categorize them are reflecting the values, biases, and worldviews that are prevalent in the societies that produce them.
