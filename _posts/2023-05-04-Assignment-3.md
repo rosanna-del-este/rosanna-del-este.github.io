@@ -32,6 +32,9 @@ I decided to collect images of different species, as well as different style sof
 Comparing the sequence of images in the image viewer vs the original ones in my file, I didn notice changes of image sequences, and its siaplacement is referred to how similar/different each image's color and style is compared to its neighboring images. 
 ![outcome7](/images/outcome7.png "outcome7")
 
+I tried to use the "Test and Score" function in Orange, but failed. It seems that the train data lacks a target variable. I don't know how to set a variable in an image dataset, as a result, I didn't figure it out. I used the instructions in video 14 to complete step 3. 
+
+## Step 4
 Creating an image dataset of artworks related to birds is a good example of how cultural, political, social, and economic contexts can influence the framing of a dataset. The artworks I choose to include and the way Orange categorize them are reflecting the values, biases, and worldviews that are prevalent in the societies that produce them.
 
 For instance, the Renaissance paintings that feature pigeons often depict them as symbols of peace and purity, reflecting the values of that period. In contrast, Chinese paintings frequently feature white birds and sparrows, which symbolize good fortune in Chinese culture. The cute and adorable portrayal of owls in some artworks suggests that these birds have been associated with benevolent and gentle qualities, whereas the colorful and flamboyant portrayal of parrots has often been linked with wealth and luxury.
