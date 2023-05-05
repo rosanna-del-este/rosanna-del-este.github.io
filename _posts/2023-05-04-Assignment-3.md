@@ -30,4 +30,12 @@ As is shown in the image, the image analysis tool does recognize paintings by th
 I decided to collect images of different species, as well as different style sof birds. I named each images according to the specie of the bird. I also collected images that wre about bird but doesn't have a specific biological category. I named them as geometric shapes. 
 ![outcome7](/images/outcome7.png "outcome7")
 
+Creating an image dataset of artworks related to birds is a good example of how cultural, political, social, and economic contexts can influence the framing of a dataset. The artworks I choose to include and the way Orange categorize them are reflecting the values, biases, and worldviews that are prevalent in the societies that produce them.
+
+For instance, the Renaissance paintings that feature pigeons often depict them as symbols of peace and purity, reflecting the values of that period. In contrast, Chinese paintings frequently feature white birds and sparrows, which symbolize good fortune in Chinese culture. The cute and adorable portrayal of owls in some artworks suggests that these birds have been associated with benevolent and gentle qualities, whereas the colorful and flamboyant portrayal of parrots has often been linked with wealth and luxury.
+
+These associations between birds and cultural values influence how Orange frames an image dataset. It selects samples of the of a specific topic/object/style, and these samples are filtered through our cultural, political, social, and economic contexts. The categories it uses to organize the dataset, the labels that are assigned to each image, and the criteria to judge the quality and relevance of each sample are all shaped by these contexts.
+
+In conclusion, creating an image dataset is a process that is embedded within specific cultural, political, social, and economic contexts. We choose samples of the world that represent the question we are investigating, and these samples are filtered through our biases and values. The way we categorize and label each image reflects our worldviews, and the criteria we use to evaluate the dataset reflect the values that are prevalent in our societies. As such, it is important to recognize the influence of these contexts on our datasets and strive to create datasets that are diverse and representative of different perspectives.
+
 
