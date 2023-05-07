@@ -43,4 +43,10 @@ These associations between birds and cultural values influence how Orange frames
 
 In conclusion, creating an image dataset is a process that is embedded within specific cultural, political, social, and economic contexts. We choose samples of the world that represent the question we are investigating, and these samples are filtered through our biases and values. The way we categorize and label each image reflects our worldviews, and the criteria we use to evaluate the dataset reflect the values that are prevalent in our societies. As such, it is important to recognize the influence of these contexts on our datasets and strive to create datasets that are diverse and representative of different perspectives.
 
+![outcome8](/images/outcome8.png "outcome8")
 
+Based on the information provided, it seems that the machine was able to identify and group some images accurately, but there were also instances where it struggled. Specifically, it was able to identify a certain bird species, but it failed to group all the images of that species together, indicating that there might be some limitations to its clustering capabilities.
+It is also interesting to note that the machine classified images based on color, which is a common technique used in clustering analysis. The fact that black and white paintings by Qi Baishi were grouped together and paintings of bluebirds were grouped together suggests that the machine was able to distinguish different color schemes and group them accordingly.
+However, it is concerning that the machine identified identical images as one image when creating the hierarchy board. This suggests that the machine might be over-simplifying the clustering process and not taking into account subtle differences between images that could impact their grouping.
+
+Overall, the machine's performance in this image database clustering analysis appears to have been mixed. While it demonstrated some ability to accurately identify and group images based on certain criteria, there were also some limitations and oversimplifications that could impact the reliability of its results.
