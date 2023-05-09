@@ -57,6 +57,6 @@ Therefore, while Arnold and Tilton's definition of "distant viewing" is useful i
 
 ## Afterwards
 
-![outcome9](/images/outcome8.png "outcome9")
+![outcome9](/images/outcome9.png "outcome9")
 
 I fixed the problem of Orange and had the softward analyze my classification of image. It turns out that the software's predicted classification is, in general, the same as my classification according to different species of birds and different drawing styles.
